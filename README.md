@@ -19,6 +19,10 @@
 https://t.me/proigrok
 
 ### Обучение
+![image](https://github.com/Proigrok/Proigrok/assets/118916563/fbc994a3-8e01-41e0-acb4-5f728ac704ee)
+
+Сертификат доступен по ссылке https://lab.karpov.courses/certificate/e11c0241-e51b-46a8-982e-5c413e201a7f/
+
 ![image](https://github.com/Proigrok/Proigrok/assets/118916563/2c8aa0ee-59b0-4b0d-a920-ae663b02c8eb)
 
 Сертификат доступен по ссылке https://skills-s3-prod.s3.eu-central-1.amazonaws.com/3965abe6dfbdfc3024a8b63e144fa8ee.png
